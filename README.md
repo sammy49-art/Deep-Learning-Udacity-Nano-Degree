@@ -33,6 +33,7 @@ Lesson 6 - Sentiment Analysis
 
 Lesson 7 - Deep Learning with PyTorch
 
+
 ## Convolutional Neural Networks
 
 Lesson 1 - Convolutional Neural Networks
@@ -52,3 +53,5 @@ Lesson 6 - Style Transfer
 Lesson 8 - Deep Learning for Cancer Detection
 
 Lesson 9 - Jobs in Deep Learning
+
+## Recurrent Neural Networks
